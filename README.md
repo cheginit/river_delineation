@@ -28,3 +28,5 @@ A curate list of GIS tools and resources for river and watershed delineation usi
 
 **Books**:
 - [Geoprocessing with Python](https://www.manning.com/books/geoprocessing-with-python): teaches how to use the Python programming language, along with free and open source tools, to read, write, and process geospatial data
+- [Source code](https://github.com/cgarrard/osgeopy-code): Code for the book Open source geoprocessing with Python
+
