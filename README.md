@@ -6,6 +6,7 @@ A curate list of GIS tools and resources for river and watershed delineation usi
 - [PDAL](https://pdal.io/index.html): A C++ BSD library for python for translating and manipulating point cloud data
 - [PyLidar](http://pylidar.org/en/latest/#): A set of Python modules which makes it easy to write lidar processing code in Python
 - [libLAS](https://liblas.org/tutorial/python.html): A C/C++ library for python for reading and writing the very common LAS LiDAR format
+- [laspy](https://github.com/laspy/laspy): A pythonic interface for reading/modifying/creating .LAS LIDAR files
 - [GDAL](https://www.gdal.org/): A translator library for raster and vector geospatial data formats
 - [GeoPandas](http://geopandas.org/index.html): Extends the datatypes used by pandas to allow spatial operations on geometric types
 - [Rtree](http://toblerity.org/rtree/): Spatial indexing for Python
