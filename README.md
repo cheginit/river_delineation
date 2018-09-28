@@ -26,6 +26,7 @@ A curate list of GIS tools and resources for river and watershed delineation usi
 - [PROJ.4 - Cartographic Projections Library](https://proj4.org/): A generic coordinate transformation software, that transforms geospatial coordinates from one coordinate reference system (CRS) to another
 - [PyProj](https://github.com/jswhit/pyproj): Python interface to PROJ4 library for cartographic transformations
 - [pysheds](https://github.com/mdbartos/pysheds): Simple and fast watershed delineation in python
+- [NetworkX](https://networkx.github.io/): a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
 
 **Books**:
 - [Geoprocessing with Python](https://www.manning.com/books/geoprocessing-with-python): teaches how to use the Python programming language, along with free and open source tools, to read, write, and process geospatial data
